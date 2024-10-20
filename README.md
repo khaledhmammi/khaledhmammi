@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a passionate self-taught developer with a fo
 - [Email](hmammikhaled@gmail.com)
 
 ### 🏆 GitHub Stats:
-![KHALED's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![khaledhmammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🚀 Current Goals:
 - Build a **photo gallery project** for elderly users, teachers, and middle schools using C# and the Windows SDK.
