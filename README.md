@@ -1,41 +1,61 @@
-# Hello, I'm KHALED 👋
+# Welcome to My Retro Corner 🌐✨
 
-Welcome to my GitHub profile! I’m a passionate self-taught developer with a focus on full-stack web development, data science, and machine learning. I enjoy building impactful projects and continuously improving my technical skills.
-
-### 👨‍💻 About Me:
-- 🌱 Currently learning **Flutter** and **Dart** for mobile development.
-- 🚀 Working on mastering **Full-Stack Web Development** (HTML, CSS, JavaScript, Python, and Java).
-- 📊 Interested in **Data Science** and **Machine Learning** with a goal to dive deep into AI.
-- 🧑‍🎓 Pursuing self-study in **mathematics** and **computer science** to enhance my technical expertise.
-- 📝 Reading "The Stranger" by Albert Camus as part of my continuous learning.
-
-### 💼 Skills:
-- **Languages**: JavaScript, Python, Java, Dart, C/C++
-- **Web Development**: HTML, CSS, JavaScript, React, Redux
-- **Backend**: Node.js, Express, Django
-- **Database**: MySQL, MongoDB
-- **Mobile Development**: Flutter
-- **Version Control**: Git, GitHub
-
-### 🛠️ Tools & Technologies:
-- **Operating Systems**: Linux (Ubuntu), Windows
-- **Frameworks & Libraries**: React, Flutter
-- **Project Management**: Agile, Kanban
-- **Others**: Linux Command Line, Windows SDK, WinUI, C#
-
-### 🌐 Find me online:
-- [LinkedIn](www.linkedin.com/in/khaled-hmammi)
-
-- [Email](hmammikhaled@gmail.com)
-
-### 🏆 GitHub Stats:
-![khaledhmammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledhmammi&show_icons=true&theme=radical)
-
-### 🚀 Current Goals:
-- Build a **photo gallery project** for elderly users, teachers, and middle schools using C# and the Windows SDK.
-- Master **Flutter** to develop engaging Android applications.
-- Pursue **Machine Learning** by solidifying my mathematical foundation.
+> "Take a step back to the golden age of the internet. The era of neon colors, pixelated GIFs, and flashing text!" 🕹️✨
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+## 👾 Hey there, I'm KHALED! 🖥️💾
+
+### 🎮 Welcome to my **Geeky Space**, where the past meets the future!
+
+I’m a full-stack developer in training, passionate about creating software that combines the charm of the retro web with modern functionality. I’m here to build amazing things with **HTML**, **CSS**, **JavaScript**, **Python**, and **Flutter**.
+
+![Old Computer GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+
+---
+
+## 💻 About Me:
+- 🔧 I’m currently learning **Flutter** & **Dart** to build awesome multi platform apps!
+- 🌱 Also improving my **Full-Stack Web Development** skills (HTML, CSS, JavaScript...).
+- 🧠 Diving into the world of **Machine Learning** and **Data Science**.
+- 📚 Constantly leveling up my **Mathematics** and **Physics** skills.
+
+![Loading...](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+## 🛠️ **Tech Stack:**
+
+⚡ Languages: JavaScript | Python | Java | Dart 🌐 Web: HTML | CSS | JavaScript | React | Redux 📱 Mobile: Flutter 🔧 Backend: Node.js | Django 📊 Databases: MySQL | MongoDB 💾 Tools: Git | GitHub | VS Code
+
+
+![Under Construction](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+
+---
+
+## ✨ **Let's Connect:**
+- 🎯 **[LinkedIn](www.linkedin.com/in/khaled-hmammi)**
+- ✉️ **Email**: hmammikhaled@gmail.com
+
+---
+
+## 🏆 **Working on:**
+- a **Photo Gallery App** for elderly people using **C#**, **Windows SDK**, and **WinUI**.
+- Learning the ropes of **Mobile Development** with Flutter.
+- Excited to embark on a **Machine Learning** journey, powered by a deep dive into **math**.
+
+---
+
+![Visitor Counter](https://profile-counter.glitch.me/yourusername/count.svg)  
+_You're visitor number... to my retro corner!_
+
+![Retro Vibes](https://media.giphy.com/media/dzFVf7VAkF2uk/giphy.gif)
+
+---
+
+### 🚀 **Come Back Anytime!**
+
+_Thanks for visiting! Grab a snack, browse some code, and feel free to reach out if you'd like to collaborate. Let's bring some nostalgic vibes back into modern tech!_ ✌️👾
+
+![Retro Love GIF](https://media.giphy.com/media/tTtZGmqwnUvZAlQAqE/giphy.gif)
+
